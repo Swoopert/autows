@@ -10,7 +10,7 @@
        "remark": "Simple HTTP application with RR pool",
        "Swoopert": {
           "class": "Tenant",
-          "Scotland": {
+          "Local": {
              "class": "Application",
              "template": "http",
              "serviceMain": {
@@ -34,7 +34,7 @@
                 }]
              }
           },
-          "International": {
+          "National": {
              "class": "Application",
              "template": "http",
              "serviceMain": {
